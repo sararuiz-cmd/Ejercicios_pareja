@@ -1,4 +1,4 @@
-package ArrayList;
+package ArrayList.Numeros;
 
 import javax.swing.*;
 import java.util.ArrayList;
